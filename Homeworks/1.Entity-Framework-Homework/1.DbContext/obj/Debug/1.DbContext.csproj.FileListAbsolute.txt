@@ -1,0 +1,13 @@
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\DbContext.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\obj\Debug\1.DbContext.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\obj\Debug\DbContext.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\DbContext.exe.config
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\bin\Debug\DbContext.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\1.DbContext\obj\Debug\DbContext.exe
+E:\Projects\Database Applications\Homeworks\1.Entity-Framework-Homework\1.DbContext\bin\Debug\DbContext.exe.config
+E:\Projects\Database Applications\Homeworks\1.Entity-Framework-Homework\1.DbContext\obj\Debug\DbContext.exe
+E:\Projects\Database Applications\Homeworks\1.Entity-Framework-Homework\1.DbContext\obj\Debug\DbContext.pdb

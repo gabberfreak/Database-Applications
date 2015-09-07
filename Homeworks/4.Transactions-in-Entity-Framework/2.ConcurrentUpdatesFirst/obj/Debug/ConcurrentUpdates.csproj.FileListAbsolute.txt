@@ -1,0 +1,1 @@
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\ConcurrentUpdates.exe.config

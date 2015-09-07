@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

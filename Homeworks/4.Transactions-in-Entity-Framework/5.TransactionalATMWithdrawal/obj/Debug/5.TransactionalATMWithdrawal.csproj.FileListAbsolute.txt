@@ -1,0 +1,15 @@
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\TransactionalATMWithdrawal.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\TransactionalATMWithdrawal.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\TransactionalATMWithdrawal.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\ATMDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\ATMDatabase.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\obj\Debug\5.TransactionalATMWithdrawal.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\obj\Debug\TransactionalATMWithdrawal.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\TransactionalATMWithdrawal\obj\Debug\TransactionalATMWithdrawal.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\5.TransactionalATMWithdrawal\bin\Debug\TransactionalATMWithdrawal.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\5.TransactionalATMWithdrawal\obj\Debug\TransactionalATMWithdrawal.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\5.TransactionalATMWithdrawal\obj\Debug\TransactionalATMWithdrawal.pdb

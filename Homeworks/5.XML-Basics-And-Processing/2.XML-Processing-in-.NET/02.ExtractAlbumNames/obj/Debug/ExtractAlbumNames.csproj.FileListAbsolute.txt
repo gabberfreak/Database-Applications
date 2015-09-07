@@ -1,0 +1,1 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\bin\Debug\ExtractAlbumNames.exe.config

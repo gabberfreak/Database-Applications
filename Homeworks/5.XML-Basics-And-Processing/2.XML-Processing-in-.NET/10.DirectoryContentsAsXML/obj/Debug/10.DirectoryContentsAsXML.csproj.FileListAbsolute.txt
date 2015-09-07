@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DirectoryContentsAsXML\bin\Debug\DirectoryContentsAsXML.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DirectoryContentsAsXML\bin\Debug\DirectoryContentsAsXML.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DirectoryContentsAsXML\bin\Debug\DirectoryContentsAsXML.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DirectoryContentsAsXML\obj\Debug\10.DirectoryContentsAsXML.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DirectoryContentsAsXML\obj\Debug\DirectoryContentsAsXML.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DirectoryContentsAsXML\obj\Debug\DirectoryContentsAsXML.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\10.DirectoryContentsAsXML\bin\Debug\DirectoryContentsAsXML.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\10.DirectoryContentsAsXML\obj\Debug\DirectoryContentsAsXML.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\10.DirectoryContentsAsXML\obj\Debug\DirectoryContentsAsXML.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\10.DirectoryContentsAsXML\bin\Debug\DirectoryContentsAsXML.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\10.DirectoryContentsAsXML\bin\Debug\DirectoryContentsAsXML.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\10.DirectoryContentsAsXML\obj\Debug\10.DirectoryContentsAsXML.csprojResolveAssemblyReference.cache

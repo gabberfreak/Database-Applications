@@ -1,0 +1,14 @@
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.pdb
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb

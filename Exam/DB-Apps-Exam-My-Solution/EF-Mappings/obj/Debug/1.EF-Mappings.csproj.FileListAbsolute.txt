@@ -1,0 +1,16 @@
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EF-Mappings.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EF-Mappings.pdb
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\obj\Debug\1.EF-Mappings.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\obj\Debug\EF-Mappings.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\EF-Mappings\obj\Debug\EF-Mappings.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\EF-Mappings\obj\Debug\EF-Mappings.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\EF-Mappings\obj\Debug\EF-Mappings.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\EF-Mappings\obj\Debug\EF-Mappings.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\EF-Mappings\obj\Debug\EF-Mappings.pdb

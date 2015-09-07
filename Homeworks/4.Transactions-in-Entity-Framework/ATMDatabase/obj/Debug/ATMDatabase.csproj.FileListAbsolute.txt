@@ -1,0 +1,10 @@
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\ATMDatabase.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\ATMDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\ATMDatabase.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\obj\Debug\ATMDatabase.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\obj\Debug\ATMDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ATMDatabase\obj\Debug\ATMDatabase.pdb

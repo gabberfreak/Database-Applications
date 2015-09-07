@@ -1,0 +1,1 @@
+E:\Projects\Database Applications\1.Entity-Framework-Homework\5.ConcurrentDatabaseChangesWithEF\bin\Debug\5.ConcurrentDatabaseChangesWithEF.exe.config

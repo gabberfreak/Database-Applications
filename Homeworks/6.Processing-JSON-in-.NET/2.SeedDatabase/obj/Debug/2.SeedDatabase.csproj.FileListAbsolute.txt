@@ -1,0 +1,14 @@
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\SeedDatabase.exe.config
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\SeedDatabase.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\SeedDatabase.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\ProductsShop.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\ProductsShop.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\obj\Debug\2.SeedDatabase.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\obj\Debug\SeedDatabase.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\obj\Debug\SeedDatabase.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\SeedDatabase\bin\Debug\Newtonsoft.Json.xml

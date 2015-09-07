@@ -1,0 +1,9 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ArtistsAndNumberOfAlbums\bin\Debug\ArtistsAndNumberOfAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ArtistsAndNumberOfAlbums\bin\Debug\ArtistsAndNumberOfAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ArtistsAndNumberOfAlbums\bin\Debug\ArtistsAndNumberOfAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ArtistsAndNumberOfAlbums\obj\Debug\ArtistsAndNumberOfAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ArtistsAndNumberOfAlbums\obj\Debug\ArtistsAndNumberOfAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ArtistsAndNumberOfAlbums\obj\Debug\4.ArtistsAndNumberOfAlbums.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\4.ArtistsAndNumberOfAlbums\bin\Debug\ArtistsAndNumberOfAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\4.ArtistsAndNumberOfAlbums\obj\Debug\ArtistsAndNumberOfAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\4.ArtistsAndNumberOfAlbums\obj\Debug\ArtistsAndNumberOfAlbums.pdb

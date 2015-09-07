@@ -1,0 +1,1 @@
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Play-With-ToList\bin\Debug\Play-With-ToList.exe.config

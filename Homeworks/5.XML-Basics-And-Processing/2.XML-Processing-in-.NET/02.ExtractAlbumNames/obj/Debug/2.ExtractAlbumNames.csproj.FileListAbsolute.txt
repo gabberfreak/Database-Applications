@@ -1,0 +1,9 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\bin\Debug\ExtractAlbumNames.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\bin\Debug\ExtractAlbumNames.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\bin\Debug\ExtractAlbumNames.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\obj\Debug\2.ExtractAlbumNames.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\obj\Debug\ExtractAlbumNames.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\ExtractAlbumNames\obj\Debug\ExtractAlbumNames.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\2.ExtractAlbumNames\bin\Debug\ExtractAlbumNames.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\2.ExtractAlbumNames\obj\Debug\ExtractAlbumNames.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\2.ExtractAlbumNames\obj\Debug\ExtractAlbumNames.pdb

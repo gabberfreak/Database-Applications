@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums name="catalog" culture="en-US">
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1994</year>
+    <producer>Tosho</producer>
+    <price>15.99</price>
+    <songs>
+      <song>
+        <title>Mysterons</title>
+        <duration>4:17</duration>
+      </song>
+      <song>
+        <title>Sour Times</title>
+        <duration>3:29</duration>
+      </song>
+      <song>
+        <title>Strangers</title>
+        <duration>2:59</duration>
+      </song>
+      <song>
+        <title>It Could Be Sweet</title>
+        <duration>3:41</duration>
+      </song>
+      <song>
+        <title>Wandering Star</title>
+        <duration>3:55</duration>
+      </song>
+      <song>
+        <title>It's a Fire</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Numb</title>
+        <duration>6:11</duration>
+      </song>
+      <song>
+        <title>Roads</title>
+        <duration>6:01</duration>
+      </song>
+      <song>
+        <title>Pedestal</title>
+        <duration>6:23</duration>
+      </song>
+      <song>
+        <title>Biscuit</title>
+        <duration>4:16</duration>
+      </song>
+      <song>
+        <title>Glory Box</title>
+        <duration>3:12</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Third</name>
+    <artist>Portishead</artist>
+    <year>2008</year>
+    <producer>Sasho</producer>
+    <price>19.99</price>
+    <songs>
+      <song>
+        <title>Silence</title>
+        <duration>6:00</duration>
+      </song>
+      <song>
+        <title>Hunter</title>
+        <duration>4:00</duration>
+      </song>
+      <song>
+        <title>Nylon Smile</title>
+        <duration>5:37</duration>
+      </song>
+      <song>
+        <title>The Rip</title>
+        <duration>4:29</duration>
+      </song>
+      <song>
+        <title>Plastic</title>
+        <duration>3:28</duration>
+      </song>
+      <song>
+        <title>We Carry On</title>
+        <duration>3:08</duration>
+      </song>
+      <song>
+        <title>Deep Water</title>
+        <duration>4:09</duration>
+      </song>
+      <song>
+        <title>Machine Gun</title>
+        <duration>5:47</duration>
+      </song>
+      <song>
+        <title>Small</title>
+        <duration>6:05</duration>
+      </song>
+      <song>
+        <title>Magic Doors</title>
+        <duration>2:26</duration>
+      </song>
+      <song>
+        <title>Threads</title>
+        <duration>2:48</duration>
+      </song>
+    </songs>
+  </album>
+</albums>

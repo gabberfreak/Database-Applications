@@ -1,0 +1,18 @@
+﻿CREATE DATABASE ATM
+GO
+
+USE ATM;
+GO
+
+CREATE TABLE CardAccounts(
+	Id int PRIMARY KEY IDENTITY,
+	CardNumber char(10) NOT NULL,
+	CardPIN char(4) NOT NULL,
+	CardCash money NOT NULL
+)
+GO
+
+INSERT INTO CardAccounts(CardNumber, CardPIN, CardCash)
+VALUES('1753850129', '8751', 2500),
+	('0934123581', '1104', 543023),
+	('7455260185', '6720', 100)

@@ -1,0 +1,2 @@
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Export-Characters-and-Players-as-JSON\bin\Debug\Export-Characters-and-Players-as-JSON.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Export-Characters-and-Players-as-JSON\bin\Debug\Export-Characters-and-Players-as-JSON.exe.config

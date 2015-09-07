@@ -1,0 +1,9 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathArtistsAndNumberOfAlbums\bin\Debug\XPathArtistsAndNumberOfAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathArtistsAndNumberOfAlbums\bin\Debug\XPathArtistsAndNumberOfAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathArtistsAndNumberOfAlbums\bin\Debug\XPathArtistsAndNumberOfAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathArtistsAndNumberOfAlbums\obj\Debug\5.XPathArtistsAndNumberOfAlbums.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathArtistsAndNumberOfAlbums\obj\Debug\XPathArtistsAndNumberOfAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathArtistsAndNumberOfAlbums\obj\Debug\XPathArtistsAndNumberOfAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\5.XPathArtistsAndNumberOfAlbums\bin\Debug\XPathArtistsAndNumberOfAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\5.XPathArtistsAndNumberOfAlbums\obj\Debug\XPathArtistsAndNumberOfAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\5.XPathArtistsAndNumberOfAlbums\obj\Debug\XPathArtistsAndNumberOfAlbums.pdb

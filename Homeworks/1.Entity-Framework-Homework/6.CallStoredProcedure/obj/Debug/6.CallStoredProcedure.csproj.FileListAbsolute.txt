@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\6.CallStoredProcedure.exe.config
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\6.CallStoredProcedure.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\6.CallStoredProcedure.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\DbContext.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\DbContext.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\obj\Debug\6.CallStoredProcedure.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\obj\Debug\6.CallStoredProcedure.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\6.CallStoredProcedure\obj\Debug\6.CallStoredProcedure.pdb

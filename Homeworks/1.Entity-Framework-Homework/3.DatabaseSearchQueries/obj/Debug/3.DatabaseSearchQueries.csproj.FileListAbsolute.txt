@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\3.DatabaseSearchQueries.exe.config
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\3.DatabaseSearchQueries.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\3.DatabaseSearchQueries.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\DbContext.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\DbContext.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\obj\Debug\3.DatabaseSearchQueries.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\obj\Debug\3.DatabaseSearchQueries.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\3.DatabaseSearchQueries\obj\Debug\3.DatabaseSearchQueries.pdb

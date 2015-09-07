@@ -1,0 +1,18 @@
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\Movies-Code-First.exe.config
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\Movies-Code-First.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\Movies-Code-First.pdb
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\obj\Debug\5.Movies-Code-First.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\obj\Debug\Movies-Code-First.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Movies-Code-First\obj\Debug\Movies-Code-First.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Movies-Code-First\bin\Debug\Movies-Code-First.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Movies-Code-First\obj\Debug\Movies-Code-First.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Movies-Code-First\obj\Debug\Movies-Code-First.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Movies-Code-First\bin\Debug\Movies-Code-First.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Movies-Code-First\obj\Debug\Movies-Code-First.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Movies-Code-First\obj\Debug\Movies-Code-First.pdb

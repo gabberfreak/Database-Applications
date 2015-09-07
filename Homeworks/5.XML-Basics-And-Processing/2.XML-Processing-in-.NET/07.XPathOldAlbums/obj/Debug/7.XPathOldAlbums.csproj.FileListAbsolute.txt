@@ -1,0 +1,9 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathOldAlbums\bin\Debug\XPathOldAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathOldAlbums\bin\Debug\XPathOldAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathOldAlbums\bin\Debug\XPathOldAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathOldAlbums\obj\Debug\7.XPathOldAlbums.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathOldAlbums\obj\Debug\XPathOldAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\XPathOldAlbums\obj\Debug\XPathOldAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\7.XPathOldAlbums\bin\Debug\XPathOldAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\7.XPathOldAlbums\obj\Debug\XPathOldAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\7.XPathOldAlbums\obj\Debug\XPathOldAlbums.pdb

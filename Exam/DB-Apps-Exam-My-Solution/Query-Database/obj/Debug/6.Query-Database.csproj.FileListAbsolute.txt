@@ -1,0 +1,31 @@
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\obj\Debug\6.Query-Database.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Query-Database.exe.config
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Query-Database.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Query-Database.pdb
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Movies-Code-First.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Movies-Code-First.pdb
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\obj\Debug\Query-Database.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Query-Database\obj\Debug\Query-Database.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Query-Database.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\obj\Debug\Query-Database.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\obj\Debug\Query-Database.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Query-Database.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Query-Database.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Movies-Code-First.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Movies-Code-First.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam\Query-Database\obj\Debug\6.Query-Database.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Query-Database\bin\Debug\Query-Database.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Query-Database\obj\Debug\Query-Database.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Query-Database\obj\Debug\Query-Database.pdb

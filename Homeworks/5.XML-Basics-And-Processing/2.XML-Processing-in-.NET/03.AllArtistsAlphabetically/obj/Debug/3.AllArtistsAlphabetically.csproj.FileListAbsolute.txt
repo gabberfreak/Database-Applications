@@ -1,0 +1,8 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\AllArtistsAlphabetically\bin\Debug\AllArtistsAlphabetically.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\AllArtistsAlphabetically\bin\Debug\AllArtistsAlphabetically.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\AllArtistsAlphabetically\bin\Debug\AllArtistsAlphabetically.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\AllArtistsAlphabetically\obj\Debug\AllArtistsAlphabetically.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\AllArtistsAlphabetically\obj\Debug\AllArtistsAlphabetically.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\3.AllArtistsAlphabetically\bin\Debug\AllArtistsAlphabetically.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\3.AllArtistsAlphabetically\obj\Debug\AllArtistsAlphabetically.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\3.AllArtistsAlphabetically\obj\Debug\AllArtistsAlphabetically.pdb

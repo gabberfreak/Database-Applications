@@ -1,0 +1,5 @@
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+E:\Projects\Database Applications\Homeworks\2.Entity-Framework-Code-First\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

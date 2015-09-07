@@ -1,0 +1,2 @@
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Export-Finished-Games-as-XML\bin\Debug\Export-Finished-Games-as-XML.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Export-Finished-Games-as-XML\bin\Debug\Export-Finished-Games-as-XML.exe.config

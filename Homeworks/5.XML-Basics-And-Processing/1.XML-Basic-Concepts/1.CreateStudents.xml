@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <name>Gosho Goshov</name>
+    <gender>Male</gender>
+    <birth-date>1991-06-17</birth-date>
+    <phone-number>0876341235</phone-number>
+    <email>goshkata@gmail.com</email>
+    <university>SoftUni</university>
+    <speciality>Software Engineer</speciality>
+    <faculty-number>455671</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>C# Advanced</exam-name>
+        <date-taken>2014-05-01</date-taken>
+        <grade>5.54</grade>
+      </exam>
+      <exam>
+        <exam-name>Java Basics</exam-name>
+        <date-taken>2014-06-12</date-taken>
+        <grade>4.70</grade>
+      </exam>
+      <exam>
+        <exam-name>PHP Web</exam-name>
+        <date-taken>2014-07-13</date-taken>
+        <grade>3.20</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Petar Petarchev</name>
+    <gender>Male</gender>
+    <birth-date>1990-01-20</birth-date>
+    <email>pesho_bicepsa@abv.bg</email>
+    <university>Sofiiski Universitet</university>
+    <speciality>Iconomy</speciality>
+    <exams>
+      <exam>
+        <exam-name>Web Services and Cloud</exam-name>
+        <date-taken>2015-03-05</date-taken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <exam-name>Databases</exam-name>
+        <date-taken>2015-04-11</date-taken>
+        <grade>5.10</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Daniela Georgieva</name>
+    <gender>Female</gender>
+    <birth-date>1995-10-05</birth-date>
+    <phone-number>0895412682</phone-number>
+    <email>sexy_parche@gmail.com</email>
+    <university>UNSS</university>
+    <speciality>Pravo</speciality>
+    <faculty-number>239044</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>Javascript Basics</exam-name>
+        <date-taken>2015-09-13</date-taken>
+        <grade>4.80</grade>
+      </exam>
+      <exam>
+        <exam-name>DB Apps</exam-name>
+        <date-taken>2014-07-28</date-taken>
+        <grade>3.10</grade>
+      </exam>
+      <exam>
+        <exam-name>ASP.NET</exam-name>
+        <date-taken>2015-07-01</date-taken>
+        <grade>4.50</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

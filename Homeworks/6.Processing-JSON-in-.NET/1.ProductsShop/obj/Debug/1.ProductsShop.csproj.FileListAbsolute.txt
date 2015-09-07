@@ -1,0 +1,13 @@
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\ProductsShop.exe.config
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\ProductsShop.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\ProductsShop.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\obj\Debug\1.ProductsShop.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\obj\Debug\ProductsShop.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\ProductsShop\obj\Debug\ProductsShop.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\1.ProductsShop\bin\Debug\ProductsShop.exe.config
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\1.ProductsShop\obj\Debug\ProductsShop.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\1.ProductsShop\obj\Debug\ProductsShop.pdb

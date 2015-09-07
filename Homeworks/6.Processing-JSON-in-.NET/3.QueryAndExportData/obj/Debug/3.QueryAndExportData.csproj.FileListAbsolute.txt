@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\QueryAndExportData.exe.config
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\QueryAndExportData.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\QueryAndExportData.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\ProductsShop.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\ProductsShop.pdb
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\obj\Debug\3.QueryAndExportData.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\obj\Debug\QueryAndExportData.exe
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\obj\Debug\QueryAndExportData.pdb

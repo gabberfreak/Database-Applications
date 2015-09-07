@@ -1,0 +1,15 @@
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\Import-Users-and-Games-from-XML.exe.config
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\Import-Users-and-Games-from-XML.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\Import-Users-and-Games-from-XML.pdb
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\EF-Mappings.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\EF-Mappings.pdb
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\obj\Debug\4.Import-Users-and-Games-from-XML.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\obj\Debug\Import-Users-and-Games-from-XML.exe
+C:\Users\Rostislav\Desktop\DB-Apps-Exam\Import-Users-and-Games-from-XML\obj\Debug\Import-Users-and-Games-from-XML.pdb
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Import-Users-and-Games-from-XML\bin\Debug\Import-Users-and-Games-from-XML.exe.config
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Import-Users-and-Games-from-XML\obj\Debug\Import-Users-and-Games-from-XML.exe
+E:\Projects\Database Applications\Exams\02.08.15\DB-Apps-Exam-My-Solution\Import-Users-and-Games-from-XML\obj\Debug\Import-Users-and-Games-from-XML.pdb

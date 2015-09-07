@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sample:students 
+  xmlns:sample="http://students.org/students/"
+  xmlns:exams="http://students.org/students/exams/">
+  <sample:student>
+    <sample:name>Gosho Goshov</sample:name>
+    <sample:gender>Male</sample:gender>
+    <sample:birth-date>1991-06-17</sample:birth-date>
+    <sample:phone-number>0876341235</sample:phone-number>
+    <sample:email>goshkata@gmail.com</sample:email>
+    <sample:university>SoftUni</sample:university>
+    <sample:speciality>Software Engineer</sample:speciality>
+    <sample:faculty-number>455671</sample:faculty-number>
+    <sample:exams>
+      <exams:exam>
+        <exams:exam-name>C# Advanced</exams:exam-name>
+        <exams:date-taken>2014-05-01</exams:date-taken>
+        <exams:grade>5.54</exams:grade>
+      </exams:exam>
+      <exams:exam>
+        <exams:exam-name>Java Basics</exams:exam-name>
+        <exams:date-taken>2014-06-12</exams:date-taken>
+        <exams:grade>4.70</exams:grade>
+      </exams:exam>
+      <exams:exam>
+        <exams:exam-name>PHP Web</exams:exam-name>
+        <exams:date-taken>2014-07-13</exams:date-taken>
+        <exams:grade>3.20</exams:grade>
+      </exams:exam>
+    </sample:exams>
+  </sample:student>
+  <sample:student>
+    <sample:name>Petar Petarchev</sample:name>
+    <sample:gender>Male</sample:gender>
+    <sample:birth-date>1990-01-20</sample:birth-date>
+    <sample:email>pesho_bicepsa@abv.bg</sample:email>
+    <sample:university>Sofiiski Universitet</sample:university>
+    <sample:speciality>Iconomy</sample:speciality>
+    <sample:exams>
+      <exams:exam>
+        <exams:exam-name>Web Services and Cloud</exams:exam-name>
+        <exams:date-taken>2015-03-05</exams:date-taken>
+        <exams:grade>6.00</exams:grade>
+      </exams:exam>
+      <exams:exam>
+        <exams:exam-name>Databases</exams:exam-name>
+        <exams:date-taken>2015-04-11</exams:date-taken>
+        <exams:grade>5.10</exams:grade>
+      </exams:exam>
+    </sample:exams>
+  </sample:student>
+  <sample:student>
+    <sample:name>Daniela Georgieva</sample:name>
+    <sample:gender>Female</sample:gender>
+    <sample:birth-date>1995-10-05</sample:birth-date>
+    <sample:phone-number>0895412682</sample:phone-number>
+    <sample:email>sexy_parche@gmail.com</sample:email>
+    <sample:university>UNSS</sample:university>
+    <sample:speciality>Pravo</sample:speciality>
+    <sample:faculty-number>239044</sample:faculty-number>
+    <sample:exams>
+      <exams:exam>
+        <exams:exam-name>Javascript Basics</exams:exam-name>
+        <exams:date-taken>2015-09-13</exams:date-taken>
+        <exams:grade>4.80</exams:grade>
+      </exams:exam>
+      <exams:exam>
+        <exams:exam-name>DB Apps</exams:exam-name>
+        <exams:date-taken>2014-07-28</exams:date-taken>
+        <exams:grade>3.10</exams:grade>
+      </exams:exam>
+      <exams:exam>
+        <exams:exam-name>ASP.NET</exams:exam-name>
+        <exams:date-taken>2015-07-01</exams:date-taken>
+        <exams:grade>4.50</exams:grade>
+      </exams:exam>
+    </sample:exams>
+  </sample:student>
+</sample:students>

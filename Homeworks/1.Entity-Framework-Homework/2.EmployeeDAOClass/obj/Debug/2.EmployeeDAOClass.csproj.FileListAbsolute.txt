@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\2.EmployeeDAOClass.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\DbContext.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\obj\Debug\2.EmployeeDAOClass.pdb
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\obj\Debug\2.EmployeeDAOClass.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\2.EmployeeDAOClass.exe.config
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\2.EmployeeDAOClass.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\bin\Debug\DbContext.exe
+E:\Projects\Database Applications\1.Entity-Framework-Homework\2.EmployeeDAOClass\obj\Debug\2.EmployeeDAOClass.exe

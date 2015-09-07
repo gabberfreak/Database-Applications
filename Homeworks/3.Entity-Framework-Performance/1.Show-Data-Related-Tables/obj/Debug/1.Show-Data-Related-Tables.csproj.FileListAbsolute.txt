@@ -1,0 +1,15 @@
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\Show-Data-Related-Tables.exe.config
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\Show-Data-Related-Tables.exe
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\Show-Data-Related-Tables.pdb
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\AdsDatabase.exe
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\AdsDatabase.pdb
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\obj\Debug\1.Show-Data-Related-Tables.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\obj\Debug\Show-Data-Related-Tables.exe
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Show-Data-Related-Tables\obj\Debug\Show-Data-Related-Tables.pdb
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\1.Show-Data-Related-Tables\bin\Debug\Show-Data-Related-Tables.exe.config
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\1.Show-Data-Related-Tables\obj\Debug\Show-Data-Related-Tables.exe
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\1.Show-Data-Related-Tables\obj\Debug\Show-Data-Related-Tables.pdb

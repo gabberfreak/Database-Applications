@@ -1,0 +1,1 @@
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\Select-Everything-And-Certain-Columns\bin\Debug\Select-Everything-And-Certain-Columns.exe.config

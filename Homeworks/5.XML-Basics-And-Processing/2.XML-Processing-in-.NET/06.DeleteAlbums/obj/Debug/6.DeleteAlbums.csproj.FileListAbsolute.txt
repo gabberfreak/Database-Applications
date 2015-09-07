@@ -1,0 +1,9 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DeleteAlbums\bin\Debug\DeleteAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DeleteAlbums\bin\Debug\DeleteAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DeleteAlbums\bin\Debug\DeleteAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DeleteAlbums\obj\Debug\6.DeleteAlbums.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DeleteAlbums\obj\Debug\DeleteAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\DeleteAlbums\obj\Debug\DeleteAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\6.DeleteAlbums\bin\Debug\DeleteAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\6.DeleteAlbums\obj\Debug\DeleteAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\6.DeleteAlbums\obj\Debug\DeleteAlbums.pdb

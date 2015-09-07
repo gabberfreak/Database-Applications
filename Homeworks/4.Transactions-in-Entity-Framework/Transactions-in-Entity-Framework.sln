@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 4", "Problem 4", "{9B45C2D3-6D48-4732-80B9-D250C481709C}"
+	ProjectSection(SolutionItems) = preProject
+		4.ATMDatabase.sql = 4.ATMDatabase.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMDatabase", "ATMDatabase\ATMDatabase.csproj", "{6DE97D73-194B-4037-B0C8-FDCEE307D85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.NewsDatabase", "1.NewsDatabase\1.NewsDatabase.csproj", "{31D83906-A91E-4549-8604-68D277E260D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConcurrentUpdatesFirst", "2.ConcurrentUpdatesFirst\2.ConcurrentUpdatesFirst.csproj", "{1140AAA0-713D-4F50-9C78-50C0B92AC4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.ConcurrentUpdatesSecond", "2.1.ConcurrentUpdatesSecond\2.1.ConcurrentUpdatesSecond.csproj", "{EADD211C-89B1-4EE7-9D33-4DB9AEFF9281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.TransactionalATMWithdrawal", "5.TransactionalATMWithdrawal\5.TransactionalATMWithdrawal.csproj", "{F1B77E2D-C14D-4B92-B05C-A877E4BBD646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE97D73-194B-4037-B0C8-FDCEE307D85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE97D73-194B-4037-B0C8-FDCEE307D85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE97D73-194B-4037-B0C8-FDCEE307D85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE97D73-194B-4037-B0C8-FDCEE307D85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D83906-A91E-4549-8604-68D277E260D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D83906-A91E-4549-8604-68D277E260D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D83906-A91E-4549-8604-68D277E260D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D83906-A91E-4549-8604-68D277E260D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1140AAA0-713D-4F50-9C78-50C0B92AC4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1140AAA0-713D-4F50-9C78-50C0B92AC4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1140AAA0-713D-4F50-9C78-50C0B92AC4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1140AAA0-713D-4F50-9C78-50C0B92AC4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADD211C-89B1-4EE7-9D33-4DB9AEFF9281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADD211C-89B1-4EE7-9D33-4DB9AEFF9281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADD211C-89B1-4EE7-9D33-4DB9AEFF9281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADD211C-89B1-4EE7-9D33-4DB9AEFF9281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B77E2D-C14D-4B92-B05C-A877E4BBD646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B77E2D-C14D-4B92-B05C-A877E4BBD646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B77E2D-C14D-4B92-B05C-A877E4BBD646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B77E2D-C14D-4B92-B05C-A877E4BBD646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums name="catalog" culture="en-US">
+  <album>
+    <name>The King of Limbs</name>
+    <artist>Radiohead</artist>
+    <year>2011</year>
+    <producer>Gosho</producer>
+    <price>20.56</price>
+    <songs>
+      <song>
+        <title>Bloom</title>
+        <duration>4:41</duration>
+      </song>
+      <song>
+        <title>Morning Mr Magpie</title>
+        <duration>4:27</duration>
+      </song>
+      <song>
+        <title>Little by Little</title>
+        <duration>3:56</duration>
+      </song>
+      <song>
+        <title>Feral</title>
+        <duration>5:11</duration>
+      </song>
+      <song>
+        <title>Lotus Flower</title>
+        <duration>3:40</duration>
+      </song>
+      <song>
+        <title>Codex</title>
+        <duration>4:13</duration>
+      </song>
+      <song>
+        <title>Give Up the Ghost</title>
+        <duration>3:38</duration>
+      </song>
+      <song>
+        <title>Separator</title>
+        <duration>3:59</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Radiohead</artist>
+    <year>1997</year>
+    <producer>Pesho</producer>
+    <price>31.99</price>
+    <songs>
+      <song>
+        <title>Airbag</title>
+        <duration>4:58</duration>
+      </song>
+      <song>
+        <title>Paranoid Android</title>
+        <duration>4:06</duration>
+      </song>
+      <song>
+        <title>Subterranean Homesick Alien</title>
+        <duration>3:09</duration>
+      </song>
+      <song>
+        <title>Exit Music (For a Film)</title>
+        <duration>5:02</duration>
+      </song>
+      <song>
+        <title>Let Down</title>
+        <duration>3:42</duration>
+      </song>
+      <song>
+        <title>Karma Police</title>
+        <duration>4:18</duration>
+      </song>
+      <song>
+        <title>Fitter Happier</title>
+        <duration>4:20</duration>
+      </song>
+      <song>
+        <title>Electioneering</title>
+        <duration>3:15</duration>
+      </song>
+      <song>
+        <title>Climbing Up the Walls</title>
+        <duration>2:57</duration>
+      </song>
+      <song>
+        <title>No Surprises</title>
+        <duration>2:31</duration>
+      </song>
+      <song>
+        <title>Lucky</title>
+        <duration>4:33</duration>
+      </song>
+      <song>
+        <title>The Tourist</title>
+        <duration>3:01</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1994</year>
+    <producer>Tosho</producer>
+    <price>15.99</price>
+    <songs>
+      <song>
+        <title>Mysterons</title>
+        <duration>4:17</duration>
+      </song>
+      <song>
+        <title>Sour Times</title>
+        <duration>3:29</duration>
+      </song>
+      <song>
+        <title>Strangers</title>
+        <duration>2:59</duration>
+      </song>
+      <song>
+        <title>It Could Be Sweet</title>
+        <duration>3:41</duration>
+      </song>
+      <song>
+        <title>Wandering Star</title>
+        <duration>3:55</duration>
+      </song>
+      <song>
+        <title>It's a Fire</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Numb</title>
+        <duration>6:11</duration>
+      </song>
+      <song>
+        <title>Roads</title>
+        <duration>6:01</duration>
+      </song>
+      <song>
+        <title>Pedestal</title>
+        <duration>6:23</duration>
+      </song>
+      <song>
+        <title>Biscuit</title>
+        <duration>4:16</duration>
+      </song>
+      <song>
+        <title>Glory Box</title>
+        <duration>3:12</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Third</name>
+    <artist>Portishead</artist>
+    <year>2010</year>
+    <producer>Sasho</producer>
+    <price>19.99</price>
+    <songs>
+      <song>
+        <title>Silence</title>
+        <duration>6:00</duration>
+      </song>
+      <song>
+        <title>Hunter</title>
+        <duration>4:00</duration>
+      </song>
+      <song>
+        <title>Nylon Smile</title>
+        <duration>5:37</duration>
+      </song>
+      <song>
+        <title>The Rip</title>
+        <duration>4:29</duration>
+      </song>
+      <song>
+        <title>Plastic</title>
+        <duration>3:28</duration>
+      </song>
+      <song>
+        <title>We Carry On</title>
+        <duration>3:08</duration>
+      </song>
+      <song>
+        <title>Deep Water</title>
+        <duration>4:09</duration>
+      </song>
+      <song>
+        <title>Machine Gun</title>
+        <duration>5:47</duration>
+      </song>
+      <song>
+        <title>Small</title>
+        <duration>6:05</duration>
+      </song>
+      <song>
+        <title>Magic Doors</title>
+        <duration>2:26</duration>
+      </song>
+      <song>
+        <title>Threads</title>
+        <duration>2:48</duration>
+      </song>
+    </songs>
+  </album>
+</albums>

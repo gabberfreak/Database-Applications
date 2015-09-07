@@ -1,0 +1,7 @@
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\LINQToXMLOldAlbums\bin\Debug\LINQToXMLOldAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\8.LINQToXMLOldAlbums\bin\Debug\LINQToXMLOldAlbums.exe.config
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\8.LINQToXMLOldAlbums\bin\Debug\LINQToXMLOldAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\8.LINQToXMLOldAlbums\bin\Debug\LINQToXMLOldAlbums.pdb
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\8.LINQToXMLOldAlbums\obj\Debug\8.LINQToXMLOldAlbums.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\8.LINQToXMLOldAlbums\obj\Debug\LINQToXMLOldAlbums.exe
+E:\Projects\Database Applications\Homeworks\5.XML-Basics-And-Processing\2.XML-Processing-in-.NET\8.LINQToXMLOldAlbums\obj\Debug\LINQToXMLOldAlbums.pdb

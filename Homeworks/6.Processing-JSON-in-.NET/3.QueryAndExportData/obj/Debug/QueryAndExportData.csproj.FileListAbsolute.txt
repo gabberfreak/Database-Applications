@@ -1,0 +1,1 @@
+E:\Projects\Database Applications\Homeworks\6.Processing-JSON-in-.NET\QueryAndExportData\bin\Debug\QueryAndExportData.exe.config

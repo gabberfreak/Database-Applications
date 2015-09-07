@@ -1,0 +1,12 @@
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\ConcurrentUpdates.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\ConcurrentUpdates.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\ConcurrentUpdates.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\NewsDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\NewsDatabase.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\obj\Debug\2.ConcurrentUpdates.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\obj\Debug\ConcurrentUpdates.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdates\obj\Debug\ConcurrentUpdates.pdb

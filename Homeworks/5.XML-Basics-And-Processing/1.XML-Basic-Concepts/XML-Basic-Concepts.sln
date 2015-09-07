@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 1", "Problem 1", "{A422E7DE-648D-4969-9883-0F65BB146F60}"
+	ProjectSection(SolutionItems) = preProject
+		1.CreateStudents.xml = 1.CreateStudents.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 2", "Problem 2", "{7EA4B3BD-0B44-4FB5-A401-1C52B4AD5034}"
+	ProjectSection(SolutionItems) = preProject
+		2.AddXMLNamespace.xml = 2.AddXMLNamespace.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 3", "Problem 3", "{E8848FB3-9362-4D91-A4C3-7C86B69576FA}"
+	ProjectSection(SolutionItems) = preProject
+		3.CreateXSDSchema.xsd = 3.CreateXSDSchema.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

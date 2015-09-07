@@ -1,0 +1,10 @@
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\AdsDatabase.exe.config
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\AdsDatabase.exe
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\AdsDatabase.pdb
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\obj\Debug\AdsDatabase.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\obj\Debug\AdsDatabase.exe
+E:\Projects\Database Applications\Homeworks\3.Entity-Framework-Performance\AdsDatabase\obj\Debug\AdsDatabase.pdb

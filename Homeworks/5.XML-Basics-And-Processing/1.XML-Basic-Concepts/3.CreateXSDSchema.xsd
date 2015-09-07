@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema 
+  xmlns:sample="http://students.org/students/"
+  xmlns:exams="http://students.org/students/exams/"
+  attributeFormDefault="unqualified"
+  elementFormDefault="qualified"
+  targetNamespace="http://students.org/students/"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://www.students.org/students/exams/" />
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="gender" type="xs:string" />
+              <xs:element name="birth-date" type="xs:date" />
+              <xs:element name="phone-number" nillable="true" type="xs:string" />
+              <xs:element name="email" type="xs:string" />
+              <xs:element name="university" type="xs:string" />
+              <xs:element name="speciality" type="xs:string" />
+              <xs:element name="faculty-number" nillable="true" type="xs:positiveInteger" />
+              <xs:element name="exams">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="1" maxOccurs="unbounded" ref="exams:exam" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="endorsement" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="author-name" type="xs:string" minOccurs="1" maxOccurs="1" />
+                    <xs:element name="author-email" type="xs:string" minOccurs="1" maxOccurs="unbounded" />
+                    <xs:element name="endorsement-date" type="xs:date" minOccurs="1" maxOccurs="1" />
+                    <xs:element name="endoresment-text" type="xs:string" minOccurs="1" maxOccurs="1" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

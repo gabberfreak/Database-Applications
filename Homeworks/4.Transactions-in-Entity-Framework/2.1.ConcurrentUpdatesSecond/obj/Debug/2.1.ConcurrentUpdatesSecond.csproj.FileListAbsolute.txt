@@ -1,0 +1,15 @@
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\ConcurrentUpdatesSecond.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\ConcurrentUpdatesSecond.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\ConcurrentUpdatesSecond.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\NewsDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\NewsDatabase.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\obj\Debug\2.1.ConcurrentUpdatesSecond.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\obj\Debug\ConcurrentUpdatesSecond.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\ConcurrentUpdatesSecond\obj\Debug\ConcurrentUpdatesSecond.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\2.1.ConcurrentUpdatesSecond\bin\Debug\ConcurrentUpdatesSecond.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\2.1.ConcurrentUpdatesSecond\obj\Debug\ConcurrentUpdatesSecond.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\2.1.ConcurrentUpdatesSecond\obj\Debug\ConcurrentUpdatesSecond.pdb

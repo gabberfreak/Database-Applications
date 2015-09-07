@@ -1,0 +1,13 @@
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\NewsDatabase.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\NewsDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\NewsDatabase.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\EntityFramework.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\EntityFramework.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\obj\Debug\1.NewsDatabase.csprojResolveAssemblyReference.cache
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\obj\Debug\NewsDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\NewsDatabase\obj\Debug\NewsDatabase.pdb
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\1.NewsDatabase\bin\Debug\NewsDatabase.exe.config
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\1.NewsDatabase\obj\Debug\NewsDatabase.exe
+E:\Projects\Database Applications\Homeworks\4.Transactions-in-Entity-Framework\1.NewsDatabase\obj\Debug\NewsDatabase.pdb
